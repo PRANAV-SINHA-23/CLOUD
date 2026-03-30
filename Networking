@@ -1,3 +1,34 @@
 Using Kunal Kushwaha's youtube video "Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples"
 and AI to learn networking 
 
+client server architectire 
+TUP UDC HTTP
+
+isp -> modem [NAT](it have a global ip add) -> house routers (gives local ip add)
+ip add decides which device to send the data 
+ports decide which app recives the data , so ip add for the conputer but port for the application  
+ports are 16 bits so 
+16 shells 
+then total ports are 2^16 ~= 65000 ports 
+all the http work happens on port 80 (such ports are called reserved ports)
+LAN
+MAN
+WAN
+
+
+TOPOLOGY
+bus
+ring 
+star
+tree
+mesh
+
+
+STRUCTURE OF THE NETWORK(OSI)
+Application - implimented in software 
+presentation -
+Session
+Transport 
+Network 
+Datalink 
+Physical
