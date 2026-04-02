@@ -17,18 +17,43 @@ WAN
 
 
 TOPOLOGY
-bus
-ring 
-star
-tree
-mesh
+  bus
+  ring 
+  star
+  tree
+  mesh
 
 
 STRUCTURE OF THE NETWORK(OSI)
-Application - implimented in software 
-presentation -
-Session
-Transport 
-Network 
-Datalink 
-Physical
+  Application - implimented in software 
+  presentation -
+  Session
+  Transport 
+  Network 
+  Datalink 
+  Physical
+
+
+TCP IP model 
+  1 application 
+  2 transport 
+  3 network 
+  4 data link
+  5 physical 
+
+
+Application layes 
+  user interact with thid layer
+  whatsapp, browser etc 
+  is in devices 
+  PROTOCLS & CLINT SERVER ARCHITECTURE 
+
+  HTTP methods 
+    uet
+    post 
+    put
+    delete 
+APPLICATION LAYER
+    SMPT 
+    POP3
+
