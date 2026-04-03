@@ -58,13 +58,13 @@ APPLICATION LAYER
     POP3
 ## The OSI Model: 7 Layers of Networking
 
-| Layer | Name | Function | Real-world Example |
-| :--- | :--- | :--- | :--- |
-| **7** | **Application** | Where the user interacts with the network. | Browsers (HTTP), Email (SMTP) |
-| **6** | **Presentation** | Translates data (encryption, compression). | JPEG, MP4, SSL/TLS |
-| **5** | **Session** | Manages the connection between two devices. | APIs, Sockets, Login sessions |
-| **4** | **Transport** | How much data is sent and how fast. | **TCP** (reliable) or **UDP** (fast) |
-| **3** | **Network** | Finding the best path for data (Routing). | **IP Addresses**, Routers |
-| **2** | **Data Link** | Transferring data between nodes on the same network. | **MAC Addresses**, Switches |
-| **1** | **Physical** | The actual hardware and electrical signals. | Ethernet cables, Fiber, Wi-Fi radio |
+| Layer | Name             | Function | Real-world Example |
+| :---  | :---             | :--------------------------------------------------- | :--- |
+| **7** | **Application**  | Where the user interacts with the network.           | Browsers (HTTP), Email (SMTP)        |
+| **6** | **Presentation** | Translates data (encryption, compression).           | JPEG, MP4, SSL/TLS                   |
+| **5** | **Session**      | Manages the connection between two devices.          | APIs, Sockets, Login sessions.       |
+| **4** | **Transport**    | How much data is sent and how fast.                  | **TCP** (reliable) or **UDP** (fast) |
+| **3** | **Network**      | Finding the best path for data (Routing).            | **IP Addresses**, Routers.           |
+| **2** | **Data Link**.   | Transferring data between nodes on the same network. | **MAC Addresses**, Switches          |
+| **1** | **Physical**     | The actual hardware and electrical signals.          | Ethernet cables, Fiber, Wi-Fi radio. |
 
