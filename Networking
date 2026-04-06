@@ -71,8 +71,6 @@ APPLICATION LAYER
 __________________________________________________________________________________________________________________________________________________________________________________________________
 ### Summary of Complete Computer Networking Course Video
 
-This comprehensive video delivers an extensive overview of **computer networking fundamentals**, focusing on how the internet works, its history, protocols, network layers, and essential components. The content is structured around foundational concepts, technical details, and real-world analogies, preparing viewers—especially developers and DevOps practitioners—for deeper networking knowledge relevant to modern applications.
-
 ---
 
 ### Key Insights and Concepts
@@ -259,15 +257,7 @@ This comprehensive video delivers an extensive overview of **computer networking
 - **Firewall and NAT:**  
   Firewalls control access by filtering packets; NAT translates private local IP addresses to public IP addresses to conserve address space and enhance security.
 
----
 
-### Conclusion
-
-This video provides a **thorough foundational understanding** of computer networking, covering the **history, key protocols, network models (OSI and TCP/IP), addressing schemes (IP, DNS), and network devices**. It clearly explains how data travels from applications through various layers and physical mediums to reach other devices globally. The course also sets the stage for practical networking knowledge critical for developers, especially in DevOps contexts, emphasizing protocols, client-server and P2P architectures, and real-world networking infrastructure such as submarine cables and ISPs.
-
-**This content is ideal for learners seeking a structured, in-depth introduction to networking, combining theory and practical insights without unnecessary jargon.**
-
----
 
 ### Keywords
 
@@ -361,21 +351,7 @@ This summary strictly follows the video content without any fabrication, using p
 - **Multiplexing and Demultiplexing:**  
   Transport layer supports sending multiple application data streams over a single network connection using port numbers to differentiate applications (multiplexing) and deliver data back to correct applications (demultiplexing).
 
----
 
-### Timeline Table: Historical Highlights
-
-| Year/Period          | Event Description                                     |
-|----------------------|-----------------------------------------------------|
-| 1957                 | Launch of Sputnik satellite by Soviet Union         |
-| Late 1960s           | Creation of ARPANET by US DoD (ARPA)                 |
-| Early 1970s          | Development of TCP/IP protocols                       |
-| 1989-1990            | Tim Berners-Lee invents the World Wide Web           |
-| Early 1990s          | Emergence of search engines (e.g., Yahoo)             |
-| 1990s - Present      | Expansion of internet infrastructure and protocols   |
-| 1998                 | Introduction of IPv6 addressing standard              |
-
----
 
 ### Protocols Summary Table
 
@@ -432,15 +408,6 @@ This summary strictly follows the video content without any fabrication, using p
 - **Firewall and NAT:**  
   Firewalls control access by filtering packets; NAT translates private local IP addresses to public IP addresses to conserve address space and enhance security.
 
----
-
-### Conclusion
-
-This video provides a **thorough foundational understanding** of computer networking, covering the **history, key protocols, network models (OSI and TCP/IP), addressing schemes (IP, DNS), and network devices**. It clearly explains how data travels from applications through various layers and physical mediums to reach other devices globally. The course also sets the stage for practical networking knowledge critical for developers, especially in DevOps contexts, emphasizing protocols, client-server and P2P architectures, and real-world networking infrastructure such as submarine cables and ISPs.
-
-**This content is ideal for learners seeking a structured, in-depth introduction to networking, combining theory and practical insights without unnecessary jargon.**
-
----
 
 ### Keywords
 
@@ -454,7 +421,3 @@ This video provides a **thorough foundational understanding** of computer networ
 - Congestion Control, Error Detection, Checksum, TTL  
 - Dynamic Host Configuration Protocol (DHCP)  
 - Peer-to-Peer (P2P), Client-Server Architecture  
-
----
-
-This summary strictly follows the video content without any fabrication, using precise technical terms and structured presentation for clarity and professional use.
